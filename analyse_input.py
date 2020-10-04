@@ -12,7 +12,7 @@
 只需部署一个即可
 
 命令格式：   analyse_input.py --cleaner_ip <cleaner_ip> --cleaner_port <cleaner_port>
-示例命令：   nohup python3 analyse_input.py --cleaner_ip 39.99.199.246 --cleaner_port 5000 &
+示例命令：   nohup python3 analyse_input.py --cleaner_ip xxx.xxx.xxx.xxx --cleaner_port 5000 &
 
 '''
 
