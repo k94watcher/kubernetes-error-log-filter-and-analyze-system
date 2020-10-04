@@ -14,7 +14,7 @@
 必须与数据库，日志提取程序，日志分析程序部署在同一网络下
 
 命令格式：   collector.py --local_name <local_name> --db_ip <db_ip> --db_user <db_user> --db_password <db_password>
-示例命令：   nohup python3 collector.py --local_name m1 --db_ip 10.43.144.104 --db_user admin --db_password 123456 &
+示例命令：   nohup python3 collector.py --local_name m1 --db_ip aaa.bbb.ccc.ddd --db_user admin --db_password xxxxxx &
 
 '''
 
