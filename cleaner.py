@@ -14,7 +14,7 @@
 必须与数据库，日志提取程序，日志分析程序部署在同一网络下
 
 命令格式：   cleaner.py --db_ip <db_ip> --db_user <db_user> --db_password <db_password>
-示例命令：   nohup python3 cleaner.py --db_ip 39.98.235.147 --db_user admin --db_password 123456 &
+示例命令：   nohup python3 cleaner.py --db_ip xxx.xxx.xxx.xxx --db_user admin --db_password xxxxxxxx &
 '''
 
 import getopt, sys
